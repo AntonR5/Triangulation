@@ -4,7 +4,6 @@
 #include <memory>
 #include <stack>
 #include <optional>
-#include <array>
 
 #include <iostream>
 
